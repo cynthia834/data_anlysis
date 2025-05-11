@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a5bc430-8b17-4d7a-ae5e-22db9bd67a4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/data_analysis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_analysis.py" afterDir="false" />
+    <list default="true" id="2a5bc430-8b17-4d7a-ae5e-22db9bd67a4f" name="Changes" comment="jupiter_notebook">
+      <change afterPath="$PROJECT_DIR$/jupiter_data_analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +16,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "cynthia834"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/cynthia834/data_anlysis.git",
+    "accountId": "9ab09af8-bb6b-4b15-877f-b3eb2e049e42"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -68,12 +75,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746991521341</updated>
-      <workItem from="1746991522419" duration="4398000" />
+      <workItem from="1746991522419" duration="4996000" />
     </task>
+    <task id="LOCAL-00001" summary="jupiter_notebook">
+      <option name="closed" value="true" />
+      <created>1746996160704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746996160704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="jupiter_noteboo" />
+    <MESSAGE value="jupiter_notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="jupiter_notebook" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/data_analysis$data_analysis.coverage" NAME="data_analysis Coverage Results" MODIFIED="1746993733064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
